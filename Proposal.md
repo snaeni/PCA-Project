@@ -58,4 +58,4 @@ Graham’s method: http://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/
 
 (4)   The results, including the runs and tests:
 
-Will compare the clarity, correctness and running times of Jarvis method, Graham’s method at above links with our derived method.
+If we have sufficient time, will compare the clarity, correctness and running times of Jarvis method, Graham’s method at above links with our derived method.
